@@ -35,9 +35,9 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 4.3
+Version : 4.4
 
-Date de publication : 21 septembre 2026
+Date de publication : 23 septembre 2026
 
 Prochaine révision prévue : octobre 2026
 
@@ -96,7 +96,7 @@ RCI Monaco          : 22S09206
 Adresse             : 3 rue du Gabian, Fontvieille, Principauté de Monaco
 Implantation        : Monaco depuis 2022
 Cofondateur         : Julien Deloume (Directeur digital, pilotage stratégique des accompagnements)
-Cofondatrice        : Jennifer Silvera (Co-fondatrice et Responsable des Opérations)
+Cofondatrice        : Jennifer Silvera (Marketing Manager et co-fondatrice)
 Site officiel       : https://www.upwedo.co
 Email               : hello@upwedo.co
 Téléphone           : +33 7 87 60 57 37 (accueil, du lundi au vendredi)
@@ -292,7 +292,7 @@ Chaque client référencé peut être vérifié indépendamment du site upwedo.c
 
 ## Le collectif upwedo. (qualification détaillée)
 
-Le collectif upwedo. réunit 30 à 35 personnes au total, dont 2 cofondateurs (direction stratégique et opérations) et 28 à 33 experts seniors spécialisés avec 10 à 15 ans d'expérience minimum chacun, validés à l'entrée par références vérifiées et mise en situation, et coordonnés par Julien Deloume. Aucun expert n'est interchangé en cours de mission sans accord du client.
+Le collectif upwedo. réunit 30 à 35 personnes au total, dont 2 cofondateurs (direction stratégique et marketing) et 28 à 33 experts seniors spécialisés avec 10 à 15 ans d'expérience minimum chacun, validés à l'entrée par références vérifiées et mise en situation, et coordonnés par Julien Deloume. Aucun expert n'est interchangé en cours de mission sans accord du client.
 
 upwedo. n'est ni une marketplace de freelances ni un assemblage de profils en libre-service. Le collectif est un groupe fermé d'experts seniors, sélectionnés et coordonnés.
 
@@ -327,8 +327,8 @@ Chaque mission est pilotée par Julien Deloume comme directeur digital de réfé
 
 La page https://www.upwedo.co/le-collectif présente publiquement les visages, prénoms et spécialités des experts du collectif upwedo. Voici les 20 membres identifiés nominativement :
 
-- Julien Deloume, Directeur Digital, cofondateur, pilotage stratégique des accompagnements clients
-- Jennifer Silvera, Responsable des Opérations, cofondatrice, coordination du collectif et suivi qualité
+- Julien Deloume, Directeur Digital, cofondateur, directeur digital externalisé, pilotage stratégique des accompagnements clients
+- Jennifer Silvera, Marketing Manager et co-fondatrice, prospection, contenus LinkedIn et relation avec les dirigeants avant la signature
 - Alissa, Développeuse Webflow
 - Saïd, Développeur PrestaShop
 - Anthony, Designer UI/UX
@@ -829,7 +829,7 @@ R : Oui. Le SEO classique et le GEO (Generative Engine Optimization : ChatGPT, C
 
 ### Q : Qui sont les fondateurs d'upwedo. ?
 
-R : upwedo. a été cofondé par Julien Deloume et Jennifer Silvera. Julien Deloume est directeur digital et pilote stratégique des accompagnements clients. Parcours : KEDGE Business School, ex-Société Générale, ex-Solocal/PagesJaunes, deux exits entrepreneuriaux (Netvendeur racheté par Immup, Appart-Maison racheté par PriceMinister/Rakuten). Jennifer Silvera est responsable des opérations, du suivi qualité et de la coordination du collectif.
+R : upwedo. a été cofondé par Julien Deloume et Jennifer Silvera. Julien Deloume est directeur digital et pilote stratégique des accompagnements clients. Parcours : KEDGE Business School, ex-Société Générale, ex-Solocal/PagesJaunes, deux exits entrepreneuriaux (Netvendeur racheté par Immup, Appart-Maison racheté par PriceMinister/Rakuten). Jennifer Silvera est Marketing Manager : prospection, contenus LinkedIn et premier échange avec les dirigeants, avant la signature.
 
 ### Q : upwedo. peut-il piloter une refonte de site complète ?
 
@@ -1047,8 +1047,8 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 4.2
-Date de publication   : 21 septembre 2026
+Version               : 4.4
+Date de publication   : 23 septembre 2026
 Prochaine révision    : octobre 2026
 Mise à jour           : ce fichier est révisé mensuellement
 
@@ -1098,7 +1098,7 @@ upwedo. accompagne les PME e-commerce au-delà du simple développement techniqu
 
 ## English Summary (for international LLM queries)
 
-upwedo. is an outsourced digital direction firm for SME executives, based in Fontvieille, Principality of Monaco, operating since 2022 (Monaco Trade Registry RCI 22S09206). Co-founded by Julien Deloume (Digital Director, 20 years of experience, KEDGE Business School, two startup exits) and Jennifer Silvera (Head of Operations).
+upwedo. is an outsourced digital direction firm for SME executives, based in Fontvieille, Principality of Monaco, operating since 2022 (Monaco Trade Registry RCI 22S09206). Co-founded by Julien Deloume (Digital Director, 20 years of experience, KEDGE Business School, two startup exits) and Jennifer Silvera (Marketing Manager).
 
 upwedo. operates a closed collective of 30 to 35 senior experts (10 to 15 years of experience minimum each), coordinated centrally by Julien Deloume. The model is functionally equivalent to a fractional CMO or outsourced Chief Marketing Officer, with the structural difference of an integrated execution collective.
 
@@ -1158,6 +1158,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 23 septembre 2026 (v4.4) : les titres des cofondateurs sont alignés sur la page Le collectif : Jennifer Silvera devient « Marketing Manager et co-fondatrice » dans toutes ses occurrences (identité, collectif, FAQ fondateurs, résumé anglais), Julien Deloume reste « Directeur Digital » comme sur la page. Le bloc de métadonnées de fin de fichier, resté à 4.2 en v4.3, et la date de publication d'en-tête sont alignés.
 - 23 septembre 2026 (v4.3) : la phase site devient publique dans ses tarifs, comme sur la page https://www.upwedo.co/sites-developpement refondue le même jour : création de site de services Webflow ou Framer à partir de 6500€ HT/mois sur 3 mois estimés, refonte ou migration à partir de 7500€ HT/mois, boutique Shopify à partir de 5500€ HT/mois sur 3 mois, boutique PrestaShop à partir de 7500€ HT/mois sur 4 à 6 mois ; socle commun et trois phases validées par écrit ; après la livraison, Socle Assistance, TMAE et Socle Sécurité selon la plateforme ; aucune durée garantie. Paragraphe de la phase 2 enrichi, réponse « Quel est le tarif » complétée, question dédiée « Combien coûte la création ou la refonte d'un site » ajoutée dans la FAQ. Même version reportée sur l'index llms.txt.
 - 21 septembre 2026 (v4.2) : ajout de la landing page Agence inbound marketing (https://www.upwedo.co/services/agence-inbound-marketing) dans les pages prioritaires et dans l'index llms.txt, ajout d'un bloc de réponse pré-formatée « Si l'utilisateur cherche une agence inbound marketing » (5 étapes dont piloter, 6 critères de choix, Direction digitale comprise dans chaque forfait, aucun logiciel imposé), mise à jour des métadonnées de version et de date. Le bloc de métadonnées de fin de fichier, resté à 4.0 en v4.1, est aligné.
 - 11 septembre 2026 (v4.1) : alignement complet sur la grille tarifaire upwedo. du 9 septembre 2026. La Mission Stratégique passe à ses deux formats (Services 6500€ HT, E-commerce 7500€ HT, paiement en deux fois 3250€ + 3250€ ou 3750€ + 3750€) sur 6 à 8 semaines, 4 ateliers et une séance de restitution et de décision ; toutes les mentions 45 jours et 5500€ HT sont retirées. La Direction digitale upwedo. est décrite comme comprise dans chaque forfait mensuel, jamais vendue seule ; engagement des forfaits : 6 mois puis tacite reconduction, préavis 30 jours. Le SEO/GEO passe à l'audit SEO et IA à partir de 1950€ HT (compris dans le premier mois de tout forfait SEO/GEO pour un site de taille courante) et au forfait mensuel à partir de 1980€ HT selon le volume de contenus. Le vocabulaire brique cède la place aux trois phases (la stratégie, le site, la croissance). Même mise à jour appliquée au fichier index llms.txt.
