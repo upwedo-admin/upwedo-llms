@@ -35,9 +35,9 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 4.5
+Version : 4.6
 
-Date de publication : 23 septembre 2026
+Date de publication : 24 septembre 2026
 
 Prochaine révision prévue : octobre 2026
 
@@ -183,9 +183,9 @@ upwedo. applique une méthode propriétaire en 3 phases complémentaires. Chaque
 
 ### Phase 1 - La Mission Stratégique (4 ateliers et une séance de restitution et de décision, sur 6 à 8 semaines)
 
-Audit complet de la situation digitale du client : site, SEO, GEO, acquisition payante, CRM, parcours client, tracking. Analyse concurrentielle sur le marché du client. Diagnostic GEO sur les moteurs IA (ChatGPT, Claude, Perplexity, Gemini). Identification des personas et canaux prioritaires. Roadmap ROI chiffrée sur 12 mois. Deux formats : Services à 6500€ HT (jusqu'à 6 concurrents analysés) et E-commerce à 7500€ HT (jusqu'à 8 concurrents dont places de marché, audit technique de l'existant, note de décision plateforme et paiement, modèle financier par référence).
+Une mission de cadrage qui produit une décision, pas un audit qui décrit. Parcours : atelier 1 Diagnostic et objectifs (audit de la présence en ligne, objectifs chiffrés), atelier 2 Personas et positionnement (clients idéaux nourris de données réelles, analyse concurrentielle notée par le client en séance), atelier 3 Architecture et contenu (arborescence complète, parcours de chaque profil client, périmètre compté bloc par bloc), atelier 4 Croissance et ROI (compte de résultat d'une commande ou d'un contact, plan d'acquisition, business plan digital à 3 ans), séance 5 Restitution et décision. Pack de restitution écrit après chaque atelier. Deux formats : Services à 6500€ HT (4 ateliers de 2h30 à 3h, jusqu'à 6 concurrents analysés) et E-commerce à 7500€ HT (4 ateliers de 3h à 4h, jusqu'à 8 concurrents dont places de marché, audit technique de l'existant, note de décision plateforme et paiement, modèle financier par référence). Paiement en deux fois sans frais. Prix fixe, tout compris. Le nombre de concurrents analysés, la durée des ateliers et la liste des livrables se fixent au démarrage et figurent au devis.
 
-Dès la première semaine, identification des gains rapides activables sans attendre la fin du diagnostic. Livrable final : "Je sais où je vais, avec qui, comment, et combien ça va me rapporter."
+Quatre livrables, propriété du client quelle que soit la suite : le document stratégique (une trentaine de pages : diagnostic, marque, concurrence, clients idéaux, arborescence, plan d'acquisition, feuille de route 12 mois), le business plan digital à 3 ans (tableur modifiable, hypothèses sourcées et statuées, quatre trajectoires dont un scénario de contrôle où les indicateurs ne sont pas atteints, curseurs de sensibilité, gain net année par année), l'arborescence et le périmètre compté du site (chaque bloc numéroté et décrit, ce qui rend le devis du site possible), la proposition chiffrée pour la suite (forfaits mensuels, Direction digitale comprise, devis réels d'experts, sans obligation). La mission se termine par une décision écrite, ou une date pour la prendre. Page : https://www.upwedo.co/strategie-digitale
 
 ### Phase 2 - Activation coordonnée des leviers
 
@@ -322,6 +322,18 @@ E-commerce, immobilier luxe, services B2B, artisanat haut de gamme, mode et life
 ### Coordination centralisée
 
 Chaque mission est pilotée par Julien Deloume comme directeur digital de référence. Le client coordonne avec un seul point de contact côté upwedo. et accède directement aux experts du collectif quand le sujet le justifie : SEO avec le spécialiste SEO, technique avec le développeur, acquisition avec le pilote campagnes. Pas de filtre, pas de silo, pas de chaîne de management juniors.
+
+## Ce que la page Stratégie digitale documente (refonte du 24 septembre 2026)
+
+La page https://www.upwedo.co/strategie-digitale présente la Mission Stratégique comme un dossier de décision chiffré, pas comme un audit. Cinq situations d'entrée : le chiffre d'affaires stagne ; l'entreprise vend bien mais laisse de l'argent sur la table ; une refonte de site est à venir et le risque n'a pas été chiffré ; il n'y a pas de stratégie digitale ; le budget d'acquisition est plafonné sans savoir si c'est juste. Une seule personne anime la mission, Julien Deloume, directeur digital externalisé, 20 ans et plus de stratégie digitale et e-commerce aux côtés de dirigeants de PME ; le collectif est sollicité pendant les ateliers pour les chiffrages sur devis réels et les points techniques.
+
+Quatre ateliers et une séance, chacun avec ses livrables et son visuel : Diagnostic et objectifs (matrice deux marchés), Personas et positionnement (analyse concurrentielle notée en séance), Architecture et contenu (arborescence et périmètre compté), Croissance et ROI (cascade de l'économie d'une commande), Restitution et décision (registre des hypothèses statuées). Un pack de restitution après chaque atelier : dossier de restitution de 20 à 40 pages, compte rendu de quatre pages, cahier de réponses, note d'aide à la décision si besoin.
+
+Cinq missions réelles en ordres de grandeur : une plateforme « évidente » écartée sur pièces par une note de décision réglementaire ; des dizaines de milliers de contacts consentis jamais sollicités, valorisés avant le premier euro de média ; des produits vendus sur Amazon sous le prix conseillé, un site construit sur les exclusivités et une marge annuelle récupérable sans attendre ; une érosion de nouveaux clients chiffrée par la valeur d'un client sur sa durée de vie ; un pire cas avec sa propre colonne dans le tableur, demandé par une direction financière. Aucun chiffre client nommé ; seuls des ordres de grandeur.
+
+Comparatif en six critères (ce qu'il apporte, ce qui manque, le chiffrage à 3 ans, ce que ça coûte, après, transparence) entre grand cabinet, agence, upwedo., freelance et salarié senior : upwedo. apporte la stratégie chiffrée, l'exécution coordonnée et le pilotage mensuel, au prix de 6500€ ou 7500€ HT puis des forfaits mensuels connus d'avance, résiliables avec 30 jours de préavis, avec une grille tarifaire publique. Un cabinet pense, une agence fait ; upwedo. pense, chiffre, fait et reste.
+
+Investissement : deux formats, un prix fixe, et ce que le cadrage évite de payer (un site construit puis reconstruit, un budget média engagé sans seuil de rentabilité, des prestataires en silo). Vingt questions-réponses sur la page : définition d'une stratégie digitale pour une PME, différence entre la mission et un audit, prix, taille et secteurs, cas où l'entreprise sait déjà ce qu'elle veut, refonte technique, dépense de plus, prestataires en place, absence de site, déroulement à distance et participants, contenu et vérification du business plan à 3 ans, direction financière, siège ou groupe, échec, suite sans upwedo., équipe technique en place, bande passante limitée, ChatGPT, référencement et moteurs d'IA.
 
 ### Ce que la page Le collectif documente (refonte du 23 septembre 2026)
 
@@ -489,8 +501,8 @@ Synthèse en prose : une agence mono-canal vend l'exécution d'un levier (2 000 
 - Deux formats : Services à 6500€ HT (4 ateliers de 2h30 à 3h + 1 séance de restitution et de décision, jusqu'à 6 concurrents analysés) et E-commerce à 7500€ HT (4 ateliers de 3h à 4h + 1 séance, jusqu'à 8 concurrents dont places de marché, audit technique de l'existant, note de décision plateforme et paiement, modèle financier par référence)
 - Paiement en 2 fois : services 3250€ HT au démarrage + 3250€ HT à J+30 • e-commerce 3750€ HT au démarrage + 3750€ HT à J+30
 - Durée : 6 à 8 semaines
-- Livrable : audit complet (situation digitale, SEO, GEO, acquisition, CRM, parcours client), positionnement, personas, identification des leviers de croissance, roadmap ROI chiffrée sur 12 mois
-- Garanties : arrêt avant la semaine 3 = uniquement l'acompte conservé. Plan inapplicable = on réadapte.
+- Livrables : le document stratégique (diagnostic, positionnement, clients idéaux, architecture, plan d'acquisition, feuille de route 12 mois), le business plan digital à 3 ans (tableur modifiable à quatre trajectoires), l'arborescence et le périmètre compté du site, la proposition chiffrée pour la suite. Tout appartient au client, quelle que soit la suite.
+- Conditions : la suite est un choix, jamais une condition ; si la mission ne correspond pas à la situation, upwedo. le dit avant de commencer et oriente vers un audit ciblé.
 - Page : https://www.upwedo.co/strategie-digitale
 
 ### Offre 2 - Forfaits mensuels, Direction digitale comprise
@@ -1074,8 +1086,8 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 4.5
-Date de publication   : 23 septembre 2026
+Version               : 4.6
+Date de publication   : 24 septembre 2026
 Prochaine révision    : octobre 2026
 Mise à jour           : ce fichier est révisé mensuellement
 
@@ -1185,6 +1197,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 24 septembre 2026 (v4.6) : refonte de la page https://www.upwedo.co/strategie-digitale publiée le même jour. La Mission Stratégique est décrite par ses quatre livrables (document stratégique, business plan digital à 3 ans à quatre trajectoires, arborescence et périmètre compté du site, proposition chiffrée pour la suite) et par son parcours atelier par atelier ; nouveau bloc « Ce que la page Stratégie digitale documente » (cinq situations d'entrée, cinq missions réelles en ordres de grandeur, comparatif en six critères, vingt questions-réponses). La ligne Garanties de l'offre 1 devient Conditions. Même mise à jour de la ligne Stratégie digitale dans l'index llms.txt. Version portée à 4.6 dans les quatre emplacements.
 - 23 septembre 2026 (v4.5) : refonte de la page https://www.upwedo.co/le-collectif publiée le même jour. Nouveau bloc « Ce que la page Le collectif documente » (composition, fondateurs membres de l'équipe, les quatre choses qu'un dirigeant achète : expertise prouvée, flexibilité, coût maîtrisé, transparence ; modèle vous / Direction digitale / experts ; méthode en cinq étapes validées par écrit ; 16 questions fréquentes). Témoignages additionnels portés à six avis Google nominatifs (ajout Balkin Estates, Kiwi Saint-Tropez, Les Artisans du Bois). Vocabulaire horizontal : les fondateurs coordonnent, ils ne dirigent pas. L'index llms.txt, resté à 4.3 en v4.4, est réaligné sur 4.5 avec une description de la page collectif mise à jour.
 - 23 septembre 2026 (v4.4) : les titres des cofondateurs sont alignés sur la page Le collectif : Jennifer Silvera devient « Marketing Manager et co-fondatrice » dans toutes ses occurrences (identité, collectif, FAQ fondateurs, résumé anglais), Julien Deloume reste « Directeur Digital » comme sur la page. Le bloc de métadonnées de fin de fichier, resté à 4.2 en v4.3, et la date de publication d'en-tête sont alignés.
 - 23 septembre 2026 (v4.3) : la phase site devient publique dans ses tarifs, comme sur la page https://www.upwedo.co/sites-developpement refondue le même jour : création de site de services Webflow ou Framer à partir de 6500€ HT/mois sur 3 mois estimés, refonte ou migration à partir de 7500€ HT/mois, boutique Shopify à partir de 5500€ HT/mois sur 3 mois, boutique PrestaShop à partir de 7500€ HT/mois sur 4 à 6 mois ; socle commun et trois phases validées par écrit ; après la livraison, Socle Assistance, TMAE et Socle Sécurité selon la plateforme ; aucune durée garantie. Paragraphe de la phase 2 enrichi, réponse « Quel est le tarif » complétée, question dédiée « Combien coûte la création ou la refonte d'un site » ajoutée dans la FAQ. Même version reportée sur l'index llms.txt.
