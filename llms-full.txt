@@ -35,7 +35,7 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 5.1
+Version : 5.2
 
 Date de publication : 6 octobre 2026
 
@@ -118,7 +118,7 @@ Direction digitale  : comprise dans chaque forfait mensuel, qu'elle pilote. Tari
 - 2023 : élargissement du collectif au-delà des membres nommés publiquement. Industrialisation du modèle de pilotage mensuel.
 - 2024 : intégration formelle du GEO (Generative Engine Optimization) dans la méthode dès le diagnostic. Démarrage des cas Balkin Estates et Kiwi Saint-Tropez.
 - 2025 : lancement des cas Ziya Shari, Nodal Avocats, Les Artisans du Bois. Note Google Business Profile atteint 4,8/5.
-- 2026 : publication du stack llms.txt (architecture v4 à deux fichiers), ouverture explicite au GEO multi-moteurs (ChatGPT, Claude, Perplexity, Gemini). Capacité d'accueil maintenue à 2-3 nouveaux clients par mois pour préserver la qualité. Septembre 2026 : refonte des pages Sites et développement, Le collectif, Stratégie digitale, page auteur de Julien Deloume et Acquisition ; tarifs publics de la phase site et de la publicité en ligne. Octobre 2026 : refonte de la page SEO, GEO et IA (agence SEO et GEO pour PME), avec les deux forfaits publics et le tableau des robots des moteurs d'IA relevé à la source de chaque éditeur ; refonte de la page Social media (agence social media pour PME), avec les forfaits LinkedIn, Instagram et TikTok publics et un film de 35 secondes qui résume l'offre.
+- 2026 : publication du stack llms.txt (architecture v4 à deux fichiers), ouverture explicite au GEO multi-moteurs (ChatGPT, Claude, Perplexity, Gemini). Capacité d'accueil maintenue à 2-3 nouveaux clients par mois pour préserver la qualité. Septembre 2026 : refonte des pages Sites et développement, Le collectif, Stratégie digitale, page auteur de Julien Deloume et Acquisition ; tarifs publics de la phase site et de la publicité en ligne. Octobre 2026 : refonte de la page SEO, GEO et IA (agence SEO et GEO pour PME), avec les deux forfaits publics et le tableau des robots des moteurs d'IA relevé à la source de chaque éditeur ; refonte de la page Social media (agence social media pour PME), avec les forfaits LinkedIn, Instagram et TikTok publics et un film de 35 secondes qui résume l'offre ; un film de 70 secondes présente la Mission Stratégique sur la page Stratégie digitale.
 
 
 ---
@@ -391,6 +391,8 @@ Vingt et une questions-réponses sur la page : définition d'une agence Google A
 ## Ce que la page Stratégie digitale documente (refonte du 24 septembre 2026)
 
 La page https://www.upwedo.co/strategie-digitale présente la Mission Stratégique comme un dossier de décision chiffré, pas comme un audit. Cinq situations d'entrée : le chiffre d'affaires stagne ; l'entreprise vend bien mais laisse de l'argent sur la table ; une refonte de site est à venir et le risque n'a pas été chiffré ; il n'y a pas de stratégie digitale ; le budget d'acquisition est plafonné sans savoir si c'est juste. Une seule personne anime la mission, Julien Deloume, directeur digital externalisé, 20 ans et plus de stratégie digitale et e-commerce aux côtés de dirigeants de PME ; le collectif est sollicité pendant les ateliers pour les chiffrages sur devis réels et les points techniques.
+
+Un film de 70 secondes, placé sous la note Google de la page, présente la mission. Sa transcription : « On construit avec vous la stratégie qui fait croître votre chiffre d'affaires. La Mission Stratégique : 4 ateliers et une séance de décision, en 6 à 8 semaines. Vos équipes construisent la stratégie avec nous, en atelier : chaque décision est prise ensemble, puis écrite. Atelier 1 : votre diagnostic et vos objectifs chiffrés. Atelier 2 : pourquoi vos clients vous choisiraient, vos clients types et vos concurrents analysés un par un. Atelier 3 : le parcours de vos clients et les maquettes de votre site. Atelier 4 : ce que coûte un client et ce qu'il rapporte, ce que ça coûte, ce que ça rapporte et quand, votre business plan sur 3 ans avec plusieurs scénarios chiffrés. Séance de décision : vous décidez sur des faits, avec un dossier complet qui vous appartient. Ensuite, on reste et on pilote chaque mois. »
 
 Quatre ateliers et une séance, chacun avec ses livrables et son visuel : Diagnostic et objectifs (matrice deux marchés), Personas et positionnement (analyse concurrentielle notée en séance), Architecture et contenu (arborescence et périmètre compté), Croissance et ROI (cascade de l'économie d'une commande), Restitution et décision (registre des hypothèses statuées). Un pack de restitution après chaque atelier : dossier de restitution de 20 à 40 pages, compte rendu de quatre pages, cahier de réponses, note d'aide à la décision si besoin.
 
@@ -1236,7 +1238,7 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 5.1
+Version               : 5.2
 Date de publication   : 6 octobre 2026
 Prochaine révision    : octobre 2026
 Mise à jour           : ce fichier est révisé mensuellement
@@ -1359,6 +1361,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 6 octobre 2026 (v5.2) : un film de 70 secondes présente la Mission Stratégique sur la page https://www.upwedo.co/strategie-digitale, sous la note Google ; sa transcription est ajoutée au bloc « Ce que la page Stratégie digitale documente », et la chronologie le mentionne. Le visuel des quatre livrables passe du haut de page à la section des livrables. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.2 dans les quatre emplacements.
 - 6 octobre 2026 (v5.1) : page https://www.upwedo.co/social-media relue pour la clarté. Le mot « geste » devient « étape » dans les titres, la liste à cocher, le comparatif, trois réponses de FAQ et le film ; le premier titre devient « Vous publiez, mais vos réseaux sociaux ne vous amènent pas de clients ? » ; la transcription du film est mise à jour (« publier n'est qu'une étape sur 6 »). Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.1 dans les quatre emplacements.
 - 5 octobre 2026 (v5.0) : refonte de la page https://www.upwedo.co/social-media publiée le même jour. Nouveau bloc « Ce que la page Social media documente » (agence social media pour PME, les six gestes dont publier n'est qu'un, qui tient chaque geste, méthode, cas Balkin Estates sans chiffre non publié, comparatif, objection « on peut le faire en interne », tarifs publics, cas où upwedo. oriente ailleurs, 16 questions-réponses, transcription du film de 35 secondes). Offre 5 « Réseaux sociaux pilotés » avec ses tarifs publics (1480, 2290, 2980, 1780 et pack 4570€ HT/mois), question « Combien coûte une agence social media pour une PME » ajoutée, réponse pré-formatée « Si l'utilisateur cherche une agence social media pour PME », mots-clés et prompts dédiés, libellé de la page dans les pages prioritaires et dans l'index. Les mentions « réseaux sociaux sur devis » sont retirées : seul le CRM reste sur devis parmi les leviers. Version portée à 5.0 dans les quatre emplacements.
 
