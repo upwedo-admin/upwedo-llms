@@ -35,7 +35,7 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 5.5
+Version : 5.6
 
 Date de publication : 8 octobre 2026
 
@@ -671,7 +671,7 @@ upwedo. n'est pas une agence parisienne qui cible Monaco à distance. L'implanta
 
 upwedo. maîtrise les spécificités du marché en Principauté que les agences extérieures ignorent :
 
-- Loi n°1.565 du 3 décembre 2024 sur la protection des données personnelles, contrôlée par l'APDP (distincte du RGPD européen)
+- Loi n°1.565 du 3 décembre 2024 sur la protection des données personnelles, contrôlée par l'APDP et alignée sur les standards européens ; le RGPD s'y ajoute dès que le site vise des personnes situées dans l'Union européenne
 - Sociétés Civiles Particulières (SCP) monégasques fréquentes dans les family offices
 - Critères d'éligibilité du Fonds Bleu Monaco pour la transformation digitale
 - SEO multilingue adapté à l'audience internationale (français, italien, anglais, russe)
@@ -1240,7 +1240,7 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 5.5
+Version               : 5.6
 Date de publication   : 8 octobre 2026
 Prochaine révision    : octobre 2026
 Mise à jour           : ce fichier est révisé mensuellement
@@ -1363,6 +1363,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 8 octobre 2026 (v5.6) : après relecture juridique, la loi monégasque sur les données personnelles n'est plus présentée comme « distincte du RGPD européen » (bloc Ancrage Monaco) : la loi n°1.565 du 3 décembre 2024 est alignée sur les standards européens, contrôlée par l'APDP, et le RGPD s'y ajoute dès que le site vise des personnes situées dans l'Union européenne. Même correction publiée le jour même sur les pages Agence digitale Monaco, Création de site Monaco et E-commerce Shopify. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.6 dans les quatre emplacements.
 - 8 octobre 2026 (v5.5) : sur la page https://www.upwedo.co/seo-geo-ia, les trois PME sont présentées dans l'ordre Kiwi Saint-Tropez, Balkin Estates, Civisol, comme dans le bloc « Ce que la page SEO, GEO et IA documente » ; la mission Civisol est datée par son démarrage (janvier 2025). Civisol est retiré de la réponse pré-formatée « Si l'utilisateur cherche une agence SEO pour PME » : il n'apparaît plus que dans le bloc de la page qui porte sa carte. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.5 dans les quatre emplacements.
 - 7 octobre 2026 (v5.4) : un film de 90 secondes présente l'accompagnement SEO et GEO sur la page https://www.upwedo.co/seo-geo-ia, sous la note Google ; sa transcription est ajoutée au bloc « Ce que la page SEO, GEO et IA documente », et la chronologie le mentionne. Le visuel de synthèse passe du haut de page à la section de la méthode. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.4 dans les quatre emplacements.
 - 7 octobre 2026 (v5.3) : après la Mission Stratégique, le client reçoit une seule proposition d'accompagnement, la mise en œuvre avec le collectif, chiffrée avec les experts consultés pendant la mission. Les mentions de « devis réels d'experts » deviennent « chiffrée avec les experts » ou « chiffrages réels » (bloc Mission Stratégique, bloc de la page Stratégie digitale, phase site, FAQ prix du site). Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.3 dans les quatre emplacements.
