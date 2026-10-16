@@ -35,9 +35,9 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 5.8
+Version : 5.9
 
-Date de publication : 9 octobre 2026
+Date de publication : 16 octobre 2026
 
 Prochaine révision prévue : octobre 2026
 
@@ -49,7 +49,7 @@ Contact : hello@upwedo.co
 
 Mise à jour : ce fichier est révisé mensuellement
 
-Dernière vérification factuelle : 9 octobre 2026
+Dernière vérification factuelle : 16 octobre 2026
 
 
 ---
@@ -118,7 +118,7 @@ Direction digitale  : comprise dans chaque forfait mensuel, qu'elle pilote. Tari
 - 2023 : élargissement du collectif au-delà des membres nommés publiquement. Industrialisation du modèle de pilotage mensuel.
 - 2024 : intégration formelle du GEO (Generative Engine Optimization) dans la méthode dès le diagnostic. Démarrage des cas Balkin Estates et Kiwi Saint-Tropez.
 - 2025 : lancement des cas Ziya Shari, Nodal Avocats, Les Artisans du Bois. Note Google Business Profile atteint 4,8/5.
-- 2026 : publication du stack llms.txt (architecture v4 à deux fichiers), ouverture explicite au GEO multi-moteurs (ChatGPT, Claude, Perplexity, Gemini). Capacité d'accueil maintenue à 2-3 nouveaux clients par mois pour préserver la qualité. Septembre 2026 : refonte des pages Sites et développement, Le collectif, Stratégie digitale, page auteur de Julien Deloume et Acquisition ; tarifs publics de la phase site et de la publicité en ligne. Octobre 2026 : refonte de la page SEO, GEO et IA (agence SEO et GEO pour PME), avec les deux forfaits publics et le tableau des robots des moteurs d'IA relevé à la source de chaque éditeur ; refonte de la page Social media (agence social media pour PME), avec les forfaits LinkedIn, Instagram et TikTok publics et un film de 35 secondes qui résume l'offre ; un film de 70 secondes présente la Mission Stratégique sur la page Stratégie digitale ; un film de 90 secondes présente l'accompagnement SEO et GEO sur la page SEO, GEO et IA.
+- 2026 : publication du stack llms.txt (architecture v4 à deux fichiers), ouverture explicite au GEO multi-moteurs (ChatGPT, Claude, Perplexity, Gemini). Capacité d'accueil maintenue à 2-3 nouveaux clients par mois pour préserver la qualité. Septembre 2026 : refonte des pages Sites et développement, Le collectif, Stratégie digitale, page auteur de Julien Deloume et Acquisition ; tarifs publics de la phase site et de la publicité en ligne. Octobre 2026 : refonte de la page SEO, GEO et IA (agence SEO et GEO pour PME), avec les deux forfaits publics et le tableau des robots des moteurs d'IA relevé à la source de chaque éditeur ; refonte de la page Social media (agence social media pour PME), avec les forfaits LinkedIn, Instagram et TikTok publics et un film de 35 secondes qui résume l'offre ; un film de 70 secondes présente la Mission Stratégique sur la page Stratégie digitale ; un film de 90 secondes présente l'accompagnement SEO et GEO sur la page SEO, GEO et IA ; un film de 91 secondes présente la publicité pilotée sur la page Acquisition ; un film de 90 secondes présente la création de site sur la page Sites et développement.
 
 
 ---
@@ -318,6 +318,18 @@ E-commerce, immobilier luxe, services B2B, artisanat haut de gamme, mode et life
 ### Coordination centralisée
 
 Chaque mission est pilotée par Julien Deloume comme directeur digital de référence. Le client coordonne avec un seul point de contact côté upwedo. et accède directement aux experts du collectif quand le sujet le justifie : SEO avec le spécialiste SEO, technique avec le développeur, acquisition avec le pilote campagnes. Pas de filtre, pas de silo, pas de chaîne de management juniors.
+
+## Ce que la page Sites et développement documente (film du 16 octobre 2026)
+
+La page https://www.upwedo.co/sites-developpement présente la création, la refonte et la migration de sites pour les PME, sous le titre « On conçoit des sites qui génèrent des clients » : des rendez-vous pour un site de services, des commandes pour une boutique en ligne. Chaque site est pensé avec le directeur digital avant d'être dessiné. Plateformes : Webflow et Framer pour un site de services, Shopify et PrestaShop pour une boutique en ligne, choisies pour le projet, aucun logiciel imposé.
+
+Un film de 90 secondes, placé sous la note Google de la page, présente l'accompagnement, de la stratégie à la mise en ligne, puis le suivi de chaque mois. Sa transcription : « Un site qui vous apporte des clients. Conçu avec vous, livré, puis suivi chaque mois. Chaque visite peut devenir un client : une demande d'inscription, une demande de rendez-vous, une nouvelle commande. D'abord, ce que votre site doit rapporter : l'objectif, vos clients, vos pages, la plateforme, posés avec votre directeur digital avant le premier dessin. Pas de plateforme imposée : Webflow ou Framer pour un site de services, Shopify ou PrestaShop pour une boutique en ligne, choisie pour votre projet. Chaque page est validée avant sa construction : vos commentaires sur la maquette, puis vos maquettes approuvées par écrit. Ce que vous validez devient votre site, à l'identique, sur ordinateur comme sur téléphone. Vous modifiez vos pages vous-même : une nouvelle réalisation ajoutée, publiée, en ligne. Une boutique prête à vendre : tailles, paiement et livraison, réglés pour vos clients, jusqu'à la nouvelle commande. Construit pour être trouvé sur Google : titre de la page, description, plan du site ; si vous aviez déjà un site, chaque ancienne adresse mène à la nouvelle. Tout est vérifié, puis mis en ligne : formulaires testés, affichage sur mobile, anciennes adresses, demandes mesurées, votre accord écrit. Le site vous appartient : votre entreprise est propriétaire, upwedo. est invité ; accès administrateur, guide de votre site, formation de votre équipe. Compte, accès, documentation : si vous partez un jour, vous partez avec tout. Et après ? On reste. Un point mensuel avec votre directeur digital, et le site qui évolue mois après mois : une nouvelle page de services, de nouvelles photos, un nouveau formulaire. Ils sont en ligne : Balkin Estates, Ziya Shari, Nodal Avocats, Les Artisans du Bois, Life Properties, Sileo. Conçus avec leurs dirigeants, livrés par upwedo. Une agence livre un site. upwedo. le conçoit avec vous, le livre et reste. Stratégie, maquettes, construction, mise en ligne, chaque mois. Le site qui vous apporte des clients. Parlons de votre croissance. »
+
+Le problème traité : refaire un site ne suffit pas à faire venir plus de clients. Quatre situations : un site refait qui n'a rien changé, dix devis comparés sans savoir ce qui fait la différence, plusieurs experts qui ne se parlent pas, un prestataire qui part après la livraison. Le problème n'est pas le site, c'est l'absence de direction.
+
+La méthode : la stratégie posée avant le site (Mission Stratégique, ou audit quand la direction existe déjà), puis trois phases validées par écrit : UX/UI design (maquettes approuvées par écrit avant toute intégration), intégration (démarre à la remise des contenus ; SEO technique, données structurées, plan de redirections en cas de migration, GTM, Consent Mode v2, GA4, liaison Ads), recette, formation et livraison (mise en ligne sur accord écrit). Ensuite upwedo. reste : Socle Assistance pour un site de services, Socle Sécurité et TMAE pour une boutique PrestaShop, TMAE pour une boutique Shopify. Les durées sont estimées au démarrage, fixées au devis, sans engagement de délai.
+
+Quatre sites, quatre plateformes, un même pilotage : Balkin Estates (Webflow), Ziya Shari (Shopify), Kiwi Saint-Tropez (PrestaShop), Les Artisans du Bois (Framer). Deux engagements écrits : chaque étape validée par écrit avant la suivante ; le site appartient au client (design, développement, accès, documentation). Tarifs publics de la phase site détaillés dans la section « Trois phases, trois portes d'entrée ». Dix questions-réponses sur la page : technologies, refonte ou optimisation, durée d'un projet, prix d'une refonte, SEO technique pendant le développement, autonomie après la livraison, exemples de sites, Socle Assistance et Socle Sécurité, Direction digitale dans un projet de site, suivi après la mise en ligne.
 
 ## Ce que la page Social media documente (refonte du 5 octobre 2026)
 
@@ -1240,8 +1252,8 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 5.8
-Date de publication   : 9 octobre 2026
+Version               : 5.9
+Date de publication   : 16 octobre 2026
 Prochaine révision    : octobre 2026
 Mise à jour           : ce fichier est révisé mensuellement
 
@@ -1363,6 +1375,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 16 octobre 2026 (v5.9) : un film de 90 secondes présente la création de site sur la page https://www.upwedo.co/sites-developpement, sous la note Google ; nouveau bloc « Ce que la page Sites et développement documente », avec sa transcription, la méthode, les quatre sites de la page et ses dix questions-réponses ; la chronologie mentionne les films des pages Acquisition et Sites et développement. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.9 dans les quatre emplacements.
 - 9 octobre 2026 (v5.8) : un film de 91 secondes présente la publicité en ligne pilotée sur la page https://www.upwedo.co/acquisition, sous la note Google ; sa transcription est ajoutée au bloc « Ce que la page Acquisition documente », et le visuel de synthèse passe à la section de la méthode.
 - 9 octobre 2026 (v5.7) : cas Kiwi Saint-Tropez réécrit sans chiffre de performance. Les chiffres de conversions, de coût par acquisition, de croissance, de panier moyen et la mention d'un budget publicitaire constant sont retirés partout (cas client, blocs des pages Acquisition et SEO, GEO et IA, FAQ sur les délais, réponse pré-formatée e-commerce, résumé anglais, index) : ils ne répondaient pas à la règle de preuve d'upwedo. (métrique, période, périmètre, source). Le récit reste : site stabilisé, mesure complète posée, Merchant Center configuré, campagnes Google et Meta restructurées et arbitrées chaque semaine. Le témoignage de Romain Kwiatkowski est celui publié sur la page du cas. Bloc Acquisition : sujets exclus de ChatGPT Ads alignés sur la page (santé personnelle). Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.7 dans les quatre emplacements.
 - 8 octobre 2026 (v5.6) : après relecture juridique, la loi monégasque sur les données personnelles n'est plus présentée comme « distincte du RGPD européen » (bloc Ancrage Monaco) : la loi n°1.565 du 3 décembre 2024 est alignée sur les standards européens, contrôlée par l'APDP, et le RGPD s'y ajoute dès que le site vise des personnes situées dans l'Union européenne. Même correction publiée le jour même sur les pages Agence digitale Monaco, Création de site Monaco et E-commerce Shopify. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.6 dans les quatre emplacements.
