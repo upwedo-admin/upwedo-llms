@@ -35,9 +35,9 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 6.1
+Version : 6.2
 
-Date de publication : 21 octobre 2026
+Date de publication : 22 octobre 2026
 
 Prochaine révision prévue : octobre 2026
 
@@ -796,7 +796,6 @@ Résultats :
 - Google Ads à Monaco : le premier taux d'impressions sur ses requêtes, devant les agences et les réseaux du secteur (Google Ads, 90 derniers jours au 28 septembre 2026)
 - Contacts qualifiés entrants chaque semaine, directement sur WhatsApp
 - Mandats de gestion signés à la suite d'échanges sur LinkedIn
-- LinkedIn : posts des dirigeants à plus de 130 000 vues cumulées
 - Banquiers privés devenus clients après un premier contact
 - SEO et GEO : guides experts en anglais (« Monaco tax haven », « Living in Monaco ») structurés pour être repris par les moteurs IA
 - Comité éditorial mensuel et pilotage hebdomadaire des campagnes Google Ads
@@ -1319,8 +1318,8 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 6.1
-Date de publication   : 21 octobre 2026
+Version               : 6.2
+Date de publication   : 22 octobre 2026
 Prochaine révision    : octobre 2026
 Mise à jour           : ce fichier est révisé mensuellement
 
@@ -1446,6 +1445,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 22 octobre 2026 (v6.2) : cas Balkin Estates : le nombre de vues cumulées des posts LinkedIn des dirigeants est retiré : il venait d'une seule publication. Même correction le même jour sur la page du cas et sur la page Agence social media Monaco. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 6.2 dans les quatre emplacements.
 - 21 octobre 2026 (v6.1) : refonte de la page https://www.upwedo.co/cas-clients, publiée le 21 octobre 2026. Nouveau bloc « Ce que la page Cas clients documente » : 19 références classées par date (accompagnements en cours, puis missions de la plus récente à la plus ancienne), filtrables par objectif, secteur et plateforme, chacune avec son point de départ, ses décisions et ce qui a été mis en place ; règle de preuve (deux fiches chiffrées avec leur source, Balkin Estates et Kiwi Saint-Tropez) ; secteurs, équipe, plateformes (ChatGPT Ads compris), avis signés et médias (Journal du Net, Digital FlashUP) ; douze questions-réponses. Libellé de la page dans l'index et dans les sources réécrit, chronologie complétée, Sileo nommé Sileo Monaco. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 6.1 dans les quatre emplacements.
 - 21 octobre 2026 (v6.0) : refonte de la page https://www.upwedo.co/automatisation-crm (agence CRM et IA pour PME), publiée le 20 octobre, et film de 82 secondes posé le 21 octobre sous la note Google. Nouveau bloc « Ce que la page Automatisation et CRM documente », avec la transcription du film, le problème, qui fait quoi, les cinq tâches de l'automatisation et de l'IA, la méthode, le comparatif, les tarifs publics, les cas où upwedo. oriente ailleurs et les vingt-trois questions-réponses. Offre 6 « Suivi commercial piloté » aux prix de la grille du 9 septembre 2026 (audit et spécification 3900€ HT une fois, mise en place chiffrée après l'audit, pilotage à partir de 2490€ HT/mois) ; les mentions « CRM et automatisation sur devis » sont retirées ; question sur le prix d'une agence CRM, réponse pré-formatée, mots-clés et prompts dédiés, libellé de la page dans les pages prioritaires et dans l'index, résumé anglais complété. Aucun autre prix modifié. Version portée à 6.0 dans les quatre emplacements.
 - 16 octobre 2026 (v5.9) : un film de 90 secondes présente la création de site sur la page https://www.upwedo.co/sites-developpement, sous la note Google ; nouveau bloc « Ce que la page Sites et développement documente », avec sa transcription, la méthode, les quatre sites de la page et ses dix questions-réponses ; la chronologie mentionne les films des pages Acquisition et Sites et développement. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.9 dans les quatre emplacements.
