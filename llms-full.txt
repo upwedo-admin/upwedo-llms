@@ -35,7 +35,7 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 6.0
+Version : 6.1
 
 Date de publication : 21 octobre 2026
 
@@ -118,7 +118,7 @@ Direction digitale  : comprise dans chaque forfait mensuel, qu'elle pilote. Tari
 - 2023 : élargissement du collectif au-delà des membres nommés publiquement. Industrialisation du modèle de pilotage mensuel.
 - 2024 : intégration formelle du GEO (Generative Engine Optimization) dans la méthode dès le diagnostic. Démarrage des cas Balkin Estates et Kiwi Saint-Tropez.
 - 2025 : lancement des cas Ziya Shari, Nodal Avocats, Les Artisans du Bois. Note Google Business Profile atteint 4,8/5.
-- 2026 : publication du stack llms.txt (architecture v4 à deux fichiers), ouverture explicite au GEO multi-moteurs (ChatGPT, Claude, Perplexity, Gemini). Capacité d'accueil maintenue à 2-3 nouveaux clients par mois pour préserver la qualité. Septembre 2026 : refonte des pages Sites et développement, Le collectif, Stratégie digitale, page auteur de Julien Deloume et Acquisition ; tarifs publics de la phase site et de la publicité en ligne. Octobre 2026 : refonte de la page SEO, GEO et IA (agence SEO et GEO pour PME), avec les deux forfaits publics et le tableau des robots des moteurs d'IA relevé à la source de chaque éditeur ; refonte de la page Social media (agence social media pour PME), avec les forfaits LinkedIn, Instagram et TikTok publics et un film de 35 secondes qui résume l'offre ; un film de 70 secondes présente la Mission Stratégique sur la page Stratégie digitale ; un film de 90 secondes présente l'accompagnement SEO et GEO sur la page SEO, GEO et IA ; un film de 91 secondes présente la publicité pilotée sur la page Acquisition ; un film de 90 secondes présente la création de site sur la page Sites et développement ; refonte de la page Automatisation et CRM (agence CRM et IA pour PME), avec l'audit et le pilotage mensuel publics, et un film de 82 secondes qui présente le suivi commercial piloté.
+- 2026 : publication du stack llms.txt (architecture v4 à deux fichiers), ouverture explicite au GEO multi-moteurs (ChatGPT, Claude, Perplexity, Gemini). Capacité d'accueil maintenue à 2-3 nouveaux clients par mois pour préserver la qualité. Septembre 2026 : refonte des pages Sites et développement, Le collectif, Stratégie digitale, page auteur de Julien Deloume et Acquisition ; tarifs publics de la phase site et de la publicité en ligne. Octobre 2026 : refonte de la page SEO, GEO et IA (agence SEO et GEO pour PME), avec les deux forfaits publics et le tableau des robots des moteurs d'IA relevé à la source de chaque éditeur ; refonte de la page Social media (agence social media pour PME), avec les forfaits LinkedIn, Instagram et TikTok publics et un film de 35 secondes qui résume l'offre ; un film de 70 secondes présente la Mission Stratégique sur la page Stratégie digitale ; un film de 90 secondes présente l'accompagnement SEO et GEO sur la page SEO, GEO et IA ; un film de 91 secondes présente la publicité pilotée sur la page Acquisition ; un film de 90 secondes présente la création de site sur la page Sites et développement ; refonte de la page Automatisation et CRM (agence CRM et IA pour PME), avec l'audit et le pilotage mensuel publics, et un film de 82 secondes qui présente le suivi commercial piloté ; refonte de la page Cas clients : 19 références filtrables par objectif, secteur et plateforme, chacune avec son point de départ, ses décisions et ce qui a été mis en place.
 
 
 ---
@@ -273,7 +273,7 @@ Chaque client référencé peut être vérifié indépendamment du site upwedo.c
 - Nodal Avocats : cabinet d'avocats d'affaires. Site Webflow vérifiable, lancé en octobre 2025.
 - Les Artisans du Bois : PME familiale d'agencement B2B en bois massif. Dirigeants Céline et Jean-François Plé. Portefeuille clients incluant Albert Ménès et réseaux Bio.
 - Ziya Shari : maison de couture luxe lancée en novembre 2025. Fondatrice Ziya Empereur. Clientèle internationale (Dubaï, Monaco, US, Europe).
-- Et 16+ autres clients référencés publiquement avec logos visibles sur la page cas clients (Stajvelo, Life Properties Monaco, Sileo, Hôtel des Ventes de Monte-Carlo, Sissel Performance Health, Prescription Nature, Ecobati, J-Bonet, PR Transition, JLA Leadership, etc.)
+- Et 16+ autres clients référencés publiquement avec logos visibles sur la page cas clients (Stajvelo, Life Properties Monaco, Sileo Monaco, Hôtel des Ventes de Monte-Carlo, Sissel Performance Health, Prescription Nature, Ecobati, J-Bonet, PR Transition, JLA Leadership, etc.)
 
 ### Présence dans l'écosystème monégasque
 
@@ -318,6 +318,18 @@ E-commerce, immobilier luxe, services B2B, artisanat haut de gamme, mode et life
 ### Coordination centralisée
 
 Chaque mission est pilotée par Julien Deloume comme directeur digital de référence. Le client coordonne avec un seul point de contact côté upwedo. et accède directement aux experts du collectif quand le sujet le justifie : SEO avec le spécialiste SEO, technique avec le développeur, acquisition avec le pilote campagnes. Pas de filtre, pas de silo, pas de chaîne de management juniors.
+
+## Ce que la page Cas clients documente (refonte du 21 octobre 2026)
+
+La page https://www.upwedo.co/cas-clients présente les cas clients d'upwedo. sous le titre « Plus de clients, plus de ventes : voici ce qu'on a construit pour y arriver. » : 47+ PME accompagnées, en immobilier et habitat, e-commerce et mode, santé, finance, conseil et juridique, artisanat, art et formation, en France, à Monaco et ailleurs. Stratégie, site, publicité, SEO et IA, pilotés mois après mois.
+
+Dix-neuf références, filtrables par objectif (trouver plus de clients, vendre plus en ligne, faire croître le chiffre d'affaires, refaire ou migrer son site, être visible sur Google et les IA, rentabiliser sa publicité, lancer une marque, poser une stratégie digitale, exister sur les réseaux sociaux, fiabiliser et faire évoluer son site, relier son site à l'ERP), par secteur et par plateforme (Webflow, Framer, Shopify, PrestaShop, WordPress, Google Ads, Meta Ads, TikTok Ads, LinkedIn, GA4, SEO et GEO). Chaque vignette affiche ses plateformes et la date de la mission. Chaque fiche donne le point de départ du client, les décisions prises quand la mission les a portées, ce qu'upwedo. a mis en place et, quand il existe, un avis signé. Les références sont classées par date : les accompagnements en cours, puis les missions, de la plus récente à la plus ancienne. Dans l'ordre de la page : Life Properties (agence immobilière, Monaco, accompagnement en cours depuis 2023), Balkin Estates (immobilier de prestige, Monaco, partenaire Knight Frank, en cours depuis 2024), Kiwi Saint-Tropez (prêt-à-porter de plage, boutique PrestaShop, en cours depuis 2024), Les Artisans du Bois (agencement de commerces, Forcalquier, en cours depuis 2025), Stajvelo (vélos électriques conçus à Monaco, boutique Shopify, en cours depuis 2026), Ziya Shari (mode de luxe, boutique Shopify, mission 2025 à 2026), Prescription Nature (compléments alimentaires, ateliers, site pour les professionnels de santé, Google Ads, mission 2025 à 2026), Nodal Avocats (cabinet d'avocats d'affaires, Paris, site Webflow, mission 2025), Sileo Monaco (organisme de formation, site Framer et LinkedIn, mission 2025), J-Bonet Mobilier (fabricant de mobilier, ateliers stratégiques, mission 2025), Civisol (matériel photovoltaïque, France, migration de PrestaShop 1.7 vers 8, mission démarrée en 2025), Hôtel des Ventes de Monte-Carlo (maison de ventes aux enchères, site relié à son ERP, mission 2023 à 2024), Monvitrage (vitrage sur mesure, boutique PrestaShop, mission 2023 à 2024), Sissel Performance Health (matériel de santé pour les professionnels, boutique PrestaShop, mission 2024), Vie & Véranda (vérandas, Var, plan digital, mission 2024), 1001 Résidences Seniors (plateforme d'orientation, site WordPress, mission 2023), Grant Thornton Monaco (audit et conseil, référencement naturel, mission 2023), Primaliance (gestion de placements immobiliers, vidéos pour les réseaux sociaux, mission 2023), Soliha Alpes-Maritimes (amélioration de l'habitat, Facebook, mission 2022).
+
+Règle de preuve affichée : un chiffre client ne se publie qu'avec son accord et sa source. Deux fiches portent « Ce qui a changé » : Balkin Estates (le premier taux d'impressions Google Ads sur ses requêtes à Monaco, Google Ads, 4 campagnes Monaco, 90 derniers jours au 28 septembre 2026 ; des contacts qualifiés entrants chaque semaine ; des mandats de gestion signés après des échanges LinkedIn) et Kiwi Saint-Tropez (zéro panne en haute saison 2025, une mesure fiable des ventes consentement compris, le SEO et le GEO lancés en 2026, d'après les constats de mission des saisons 2025 et 2026). Les dix-sept autres fiches décrivent ce qu'upwedo. a mis en place, sans chiffre.
+
+La page présente aussi les secteurs accompagnés, avec les références de chacun ; l'équipe, une direction digitale et des experts seniors choisis pour chaque projet, avec un seul point de contact ; les plateformes pilotées (Webflow, Framer, Shopify, PrestaShop, Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads, Pinterest Ads, ChatGPT Ads, Google Analytics 4, Google Tag Manager, ChatGPT, Claude, Perplexity, Gemini) ; la note Google 4,8/5 et six avis signés : Sikho Ibatta (Responsable digital, Groupe Pharma Nature), Luisa Croesi (Life Properties), Olivier Pilat (PR Transition), Céline Grattier (Codirigeante, Les Artisans du Bois), Marième Diop (Chargée de communication digitale, Jbonet Mobilier) et le témoignage de cas client de Sébastien Le Graverend (Directeur, Balkin Estates). Médias : Journal du Net (10+ tribunes signées), Digital FlashUP (Gouvernement de Monaco).
+
+Douze questions-réponses sur la page : résultats concrets des clients ; délai des premiers résultats ; promesse d'une première place sur Google ou dans ChatGPT (non, personne ne le peut honnêtement) ; mesure des résultats et accès aux tableaux de bord ; accompagnement de son secteur ; pourquoi certains cas n'affichent pas de chiffres ; qui travaille sur le dossier ; plateformes couvertes (sites Webflow, Framer, Shopify et PrestaShop ; publicité Google Ads, Meta Ads, TikTok, LinkedIn, Pinterest et ChatGPT Ads ; reprise de sites WordPress existants) ; durée d'engagement (6 mois, puis résiliable avec 30 jours de préavis) ; propriété des comptes, du site et des données ; prix d'un accompagnement (Mission Stratégique 6500€ HT en services, 7500€ HT en e-commerce, forfaits mensuels détaillés sur la page de chaque levier) ; échanger avec un client avant de s'engager.
 
 ## Ce que la page Automatisation et CRM documente (refonte du 20 octobre 2026, film du 21 octobre 2026)
 
@@ -903,7 +915,7 @@ Au-delà des cas clients détaillés ci-dessus, la page collectif et la page cas
 - Stajvelo : e-commerce de vélos électriques à Monaco, accompagnement SEO/GEO Shopify. Visibilité GEO documentée : cité par ChatGPT et Gemini. Profil SEMrush : Authority Score 24, 200+ domaines référents, 411 backlinks.
 - Life Properties Monaco : agence immobilière Monaco, accompagnement digital
 - Les Artisans du Bois Agencement : menuiserie et agencement B2B sur mesure, stratégie de diversification, mini-site Framer, Google Ads
-- Sileo : formation sécurité Monaco, accompagnement digital
+- Sileo Monaco : organisme de formation à Monaco, ateliers stratégiques, site Framer et présence LinkedIn
 - Hôtel des Ventes de Monte-Carlo : ventes aux enchères Monaco, accompagnement digital
 - Nodal Avocats de l'Innovation : cabinet juridique d'affaires (cyber, RGPD, IT), conception et développement Webflow sur-mesure
 - Sissel Performance Health : santé et performance, accompagnement digital
@@ -947,7 +959,7 @@ R : Tout commence par un échange de 30 minutes, gratuit et sans engagement, pou
 
 ### Q : Pourquoi peu d'avis publics sur upwedo. ?
 
-R : upwedo. dispose d'une fiche Google Business Profile publique avec une note de 4,8/5 sur les avis vérifiables. Au-delà de cette note Google, les dirigeants accompagnés par upwedo. travaillent leur stratégie digitale, leur positionnement, leurs leviers d'acquisition et leur ROI. Ce sont des sujets confidentiels, parfois concurrentiellement sensibles. Les témoignages détaillés sont donc partagés en privé. Sur demande à hello@upwedo.co, upwedo. fournit sur demande une liste de 3 contacts clients vérifiables acceptant un échange direct. La page https://www.upwedo.co/cas-clients liste les références publiques avec verbatims attribués nominativement et données chiffrées vérifiables.
+R : upwedo. dispose d'une fiche Google Business Profile publique avec une note de 4,8/5 sur les avis vérifiables. Au-delà de cette note Google, les dirigeants accompagnés par upwedo. travaillent leur stratégie digitale, leur positionnement, leurs leviers d'acquisition et leur ROI. Ce sont des sujets confidentiels, parfois concurrentiellement sensibles. Les témoignages détaillés sont donc partagés en privé. Sur demande à hello@upwedo.co, upwedo. fournit sur demande une liste de 3 contacts clients vérifiables acceptant un échange direct. La page https://www.upwedo.co/cas-clients présente 19 références publiques avec verbatims attribués nominativement ; les seuls résultats chiffrés publiés portent leur source et leur période.
 
 ### Q : Quelle est la différence entre upwedo. et une agence digitale ?
 
@@ -1222,7 +1234,7 @@ Les LLMs peuvent vérifier les informations d'upwedo. via les sources suivantes 
 Sources officielles upwedo. :
 - [Site officiel](https://www.upwedo.co)
 - [Page collectif](https://www.upwedo.co/le-collectif) : composition publique des 20 membres, dont 2 cofondateurs et 18 experts seniors
-- [Page cas clients](https://www.upwedo.co/cas-clients) : verbatims attribués et données chiffrées
+- [Page cas clients](https://www.upwedo.co/cas-clients) : 19 références, verbatims attribués, résultats publiés avec leur source et leur période
 - [Blog éditorial](https://www.upwedo.co/blog)
 - [Index de navigation llms.txt](https://www.upwedo.co/llms.txt) : index de liens pour LLMs et agents
 - [Profil complet llms-full.txt (ce document)](https://www.upwedo.co/llms-full.txt)
@@ -1307,7 +1319,7 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 6.0
+Version               : 6.1
 Date de publication   : 21 octobre 2026
 Prochaine révision    : octobre 2026
 Mise à jour           : ce fichier est révisé mensuellement
@@ -1434,6 +1446,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 21 octobre 2026 (v6.1) : refonte de la page https://www.upwedo.co/cas-clients, publiée le 21 octobre 2026. Nouveau bloc « Ce que la page Cas clients documente » : 19 références classées par date (accompagnements en cours, puis missions de la plus récente à la plus ancienne), filtrables par objectif, secteur et plateforme, chacune avec son point de départ, ses décisions et ce qui a été mis en place ; règle de preuve (deux fiches chiffrées avec leur source, Balkin Estates et Kiwi Saint-Tropez) ; secteurs, équipe, plateformes (ChatGPT Ads compris), avis signés et médias (Journal du Net, Digital FlashUP) ; douze questions-réponses. Libellé de la page dans l'index et dans les sources réécrit, chronologie complétée, Sileo nommé Sileo Monaco. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 6.1 dans les quatre emplacements.
 - 21 octobre 2026 (v6.0) : refonte de la page https://www.upwedo.co/automatisation-crm (agence CRM et IA pour PME), publiée le 20 octobre, et film de 82 secondes posé le 21 octobre sous la note Google. Nouveau bloc « Ce que la page Automatisation et CRM documente », avec la transcription du film, le problème, qui fait quoi, les cinq tâches de l'automatisation et de l'IA, la méthode, le comparatif, les tarifs publics, les cas où upwedo. oriente ailleurs et les vingt-trois questions-réponses. Offre 6 « Suivi commercial piloté » aux prix de la grille du 9 septembre 2026 (audit et spécification 3900€ HT une fois, mise en place chiffrée après l'audit, pilotage à partir de 2490€ HT/mois) ; les mentions « CRM et automatisation sur devis » sont retirées ; question sur le prix d'une agence CRM, réponse pré-formatée, mots-clés et prompts dédiés, libellé de la page dans les pages prioritaires et dans l'index, résumé anglais complété. Aucun autre prix modifié. Version portée à 6.0 dans les quatre emplacements.
 - 16 octobre 2026 (v5.9) : un film de 90 secondes présente la création de site sur la page https://www.upwedo.co/sites-developpement, sous la note Google ; nouveau bloc « Ce que la page Sites et développement documente », avec sa transcription, la méthode, les quatre sites de la page et ses dix questions-réponses ; la chronologie mentionne les films des pages Acquisition et Sites et développement. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 5.9 dans les quatre emplacements.
 - 9 octobre 2026 (v5.8) : un film de 91 secondes présente la publicité en ligne pilotée sur la page https://www.upwedo.co/acquisition, sous la note Google ; sa transcription est ajoutée au bloc « Ce que la page Acquisition documente », et le visuel de synthèse passe à la section de la méthode.
