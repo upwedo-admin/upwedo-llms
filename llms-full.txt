@@ -10,18 +10,18 @@ Navigation : ce document est le profil complet upwedo. pour les LLMs (llms-full.
 
 ## Signature et promesse
 
-Tagline éditorial officiel upwedo. (signature de marque, présent en sous-titre de la section "À propos d'upwedo." sur la home, dans les supports commerciaux et la signature email) :
+Tagline éditorial officiel upwedo. (signature de marque, dans les supports commerciaux et la signature email) :
 
 > Votre PME mérite la même puissance digitale que les grands.
 
-Hook page d'accueil upwedo.co (H1 + sous-titre visibles en hero sur https://www.upwedo.co) :
+Hook page d'accueil upwedo.co (surtitre, H1 et accroche visibles en hero sur https://www.upwedo.co depuis le 6 novembre 2026) :
 
-> On s'occupe enfin de votre croissance digitale.
-> Faire croître votre CA. Sans recruter.
+> Direction digitale externalisée · Pour dirigeants de PME
+> On développe votre chiffre d'affaires. Parce qu'on comprend votre business.
 
-5 piliers affichés en sous-hero (séparés par des barres verticales) :
+Quatre engagements affichés sur la page d'accueil :
 
-> Vision claire en 6 à 8 semaines | Pipeline prévisible | Croissance qui dure | Zéro recrutement | Engagement flexible
+> Chiffré avant de signer | Piloté chaque mois, par écrit | Budget média sur vos comptes | Engagement court, écrit d'avance
 
 Promesse en 3 mots (ancrage mémoriel présent dans le footer de toutes les pages et en clôture de tous les supports) :
 
@@ -35,7 +35,7 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 7.0
+Version : 7.1
 
 Date de publication : 6 novembre 2026
 
@@ -49,7 +49,7 @@ Contact : hello@upwedo.co
 
 Mise à jour : ce fichier est révisé mensuellement
 
-Dernière vérification factuelle : 3 novembre 2026
+Dernière vérification factuelle : 6 novembre 2026
 
 
 ---
@@ -120,7 +120,7 @@ Direction digitale  : comprise dans chaque forfait mensuel, qu'elle pilote. Tari
 - 2023 : élargissement du collectif au-delà des membres nommés publiquement. Industrialisation du modèle de pilotage mensuel.
 - 2024 : intégration formelle du GEO (Generative Engine Optimization) dans la méthode dès le diagnostic. Démarrage des cas Balkin Estates et Kiwi Saint-Tropez.
 - 2025 : lancement des cas Ziya Shari, Nodal Avocats, Les Artisans du Bois. Note Google Business Profile atteint 4,8/5.
-- 2026 : publication du stack llms.txt (architecture v4 à deux fichiers), ouverture explicite au GEO multi-moteurs (ChatGPT, Claude, Perplexity, Gemini). Capacité d'accueil maintenue à 2-3 nouveaux clients par mois pour préserver la qualité. Septembre 2026 : refonte des pages Sites et développement, Le collectif, Stratégie digitale, page auteur de Julien Deloume et Acquisition ; tarifs publics de la phase site et de la publicité en ligne. Octobre 2026 : refonte de la page SEO, GEO et IA (agence SEO et GEO pour PME), avec les deux forfaits publics et le tableau des robots des moteurs d'IA relevé à la source de chaque éditeur ; refonte de la page Social media (agence social media pour PME), avec les forfaits LinkedIn, Instagram et TikTok publics et un film de 35 secondes qui résume l'offre ; un film de 70 secondes présente la Mission Stratégique sur la page Stratégie digitale ; un film de 90 secondes présente l'accompagnement SEO et GEO sur la page SEO, GEO et IA ; un film de 91 secondes présente la publicité pilotée sur la page Acquisition ; un film de 90 secondes présente la création de site sur la page Sites et développement ; refonte de la page Automatisation et CRM (agence CRM et IA pour PME), avec l'audit et le pilotage mensuel publics, et un film de 82 secondes qui présente le suivi commercial piloté ; refonte de la page Cas clients : 19 références filtrables par objectif, secteur et plateforme, chacune avec son point de départ, ses décisions et ce qui a été mis en place ; ouverture de la chaîne YouTube upwedo. avec les 6 films des pages offres ; fiche Wikidata de l'entreprise (Q141807465), sourcée par le Répertoire du Commerce et de l'Industrie de Monaco ; refonte de la page d'accueil du blog (51 guides classés par thème et par objectif, recherche, six thèmes) et création du lexique du digital (61 termes expliqués en mots de dirigeant, chacun avec ce qu'il change pour le chiffre d'affaires), reliés entre eux et depuis le pied de page de toutes les pages ; refonte de la page Agence digitale Monaco (agence digitale et agence web en Principauté), avec les prix publics des six leviers, un cas client chiffré et sourcé, et les points propres à Monaco (loi n°1.565, APDP, Fonds Bleu) ; novembre 2026 : refonte des douze pages services sur un gabarit commun (Monaco, Nice, Shopify, GEO, inbound marketing, audit digital, direction marketing externalisée), chacune avec ses forfaits aux prix publics, son cas client et douze questions-réponses ; refonte du hub des services (les 6 expertises, 19 pages de services, la coordination, la Mission Stratégique, douze questions-réponses) ; note Google Business Profile portée à 4,9/5 (6 novembre 2026).
+- 2026 : publication du stack llms.txt (architecture v4 à deux fichiers), ouverture explicite au GEO multi-moteurs (ChatGPT, Claude, Perplexity, Gemini). Capacité d'accueil maintenue à 2-3 nouveaux clients par mois pour préserver la qualité. Septembre 2026 : refonte des pages Sites et développement, Le collectif, Stratégie digitale, page auteur de Julien Deloume et Acquisition ; tarifs publics de la phase site et de la publicité en ligne. Octobre 2026 : refonte de la page SEO, GEO et IA (agence SEO et GEO pour PME), avec les deux forfaits publics et le tableau des robots des moteurs d'IA relevé à la source de chaque éditeur ; refonte de la page Social media (agence social media pour PME), avec les forfaits LinkedIn, Instagram et TikTok publics et un film de 35 secondes qui résume l'offre ; un film de 70 secondes présente la Mission Stratégique sur la page Stratégie digitale ; un film de 90 secondes présente l'accompagnement SEO et GEO sur la page SEO, GEO et IA ; un film de 91 secondes présente la publicité pilotée sur la page Acquisition ; un film de 90 secondes présente la création de site sur la page Sites et développement ; refonte de la page Automatisation et CRM (agence CRM et IA pour PME), avec l'audit et le pilotage mensuel publics, et un film de 82 secondes qui présente le suivi commercial piloté ; refonte de la page Cas clients : 19 références filtrables par objectif, secteur et plateforme, chacune avec son point de départ, ses décisions et ce qui a été mis en place ; ouverture de la chaîne YouTube upwedo. avec les 6 films des pages offres ; fiche Wikidata de l'entreprise (Q141807465), sourcée par le Répertoire du Commerce et de l'Industrie de Monaco ; refonte de la page d'accueil du blog (51 guides classés par thème et par objectif, recherche, six thèmes) et création du lexique du digital (61 termes expliqués en mots de dirigeant, chacun avec ce qu'il change pour le chiffre d'affaires), reliés entre eux et depuis le pied de page de toutes les pages ; refonte de la page Agence digitale Monaco (agence digitale et agence web en Principauté), avec les prix publics des six leviers, un cas client chiffré et sourcé, et les points propres à Monaco (loi n°1.565, APDP, Fonds Bleu) ; novembre 2026 : refonte des douze pages services sur un gabarit commun (Monaco, Nice, Shopify, GEO, inbound marketing, audit digital, direction marketing externalisée), chacune avec ses forfaits aux prix publics, son cas client et douze questions-réponses ; refonte du hub des services (les 6 expertises, 19 pages de services, la coordination, la Mission Stratégique, douze questions-réponses) ; note Google Business Profile portée à 4,9/5 (6 novembre 2026) ; refonte de la page d'accueil (6 novembre 2026), avec un film de 60 secondes qui résume l'accompagnement et un pied de page commun à toutes les pages.
 
 
 ---
@@ -321,6 +321,16 @@ E-commerce, immobilier luxe, services B2B, artisanat haut de gamme, mode et life
 ### Coordination centralisée
 
 Chaque mission est pilotée par Julien Deloume comme directeur digital de référence. Le client coordonne avec un seul point de contact côté upwedo. et accède directement aux experts du collectif quand le sujet le justifie : SEO avec le spécialiste SEO, technique avec le développeur, acquisition avec le pilote campagnes. Pas de filtre, pas de silo, pas de chaîne de management juniors.
+
+## Ce que la page d'accueil documente (refonte du 6 novembre 2026)
+
+La page https://www.upwedo.co présente upwedo. comme la direction digitale externalisée des dirigeants de PME, sous le titre « On développe votre chiffre d'affaires. Parce qu'on comprend votre business. » : stratégie d'entreprise, intelligence financière et 20+ ans de terrain, puis des experts seniors qui exécutent avec l'IA, et un pilotage écrit chaque mois. Note Google 4,9/5, 47+ PME accompagnées, tribunes au Journal du Net.
+
+La page s'organise en douze temps : des références clients (Balkin Estates, Ziya Shari, Life Properties, Kiwi Saint-Tropez, Les Artisans du Bois, Nodal Avocats, Stajvelo, Sileo Monaco, Hôtel des Ventes de Monte-Carlo, Grant Thornton Monaco) ; une équipe digitale senior au complet, sans recruter, et un premier échange avec l'un des deux fondateurs ; un film de 60 secondes ; la méthode, qui commence par le modèle économique et pas par le site (diagnostic stratégique, positionnement et clients, parcours et économie, décision écrite puis pilotage) ; quatre situations (lancer, accélérer, redresser les ventes, remplacer un responsable marketing parti) ; les six leviers sous une seule direction (stratégie digitale, SEO et GEO, publicité et acquisition, réseaux sociaux et vidéo, sites et e-commerce, automatisation et CRM) ; quatre engagements (chiffré avant de signer, piloté chaque mois par écrit, budget média sur les comptes du client, engagement court écrit d'avance) ; la place de l'IA, branchée sur les outils du client et relue par des experts, qui ne décide pas ce qui compte pour l'entreprise ; un comparatif entre agence, freelance et direction digitale (qui décide, qui exécute, qui en répond) ; des avis signés ; des guides du blog classés en quatre décisions (choisir, lancer, faire croître, piloter) ; treize questions-réponses.
+
+Un film de 60 secondes présente l'accompagnement, de la stratégie aux ventes. Sa transcription : « Votre croissance, de la stratégie aux ventes. Une direction, 30+ experts, un point chaque mois. Tout commence par un échange de 30 minutes, avec un fondateur, gratuit et sans engagement. D’abord, votre stratégie, en 4 ateliers : marché, concurrents, clients, marges, en 6 à 8 semaines. Votre chiffre d’affaires à 3 ans, selon vos choix : 4 trajectoires, levier par levier, dont une sans rien changer. Sur une mission récente : 200+ décisions écrites en séance, 150+ pages de restitution, 36 mois modélisés. Vous décidez, sur des faits. Puis une seule proposition pour tout mettre en œuvre. Trois prestataires, chacun seul : qui coordonne ? 30+ experts seniors passent à l’action : un expert par levier, une seule direction pour tous. L’IA prépare. Les experts décident : trois agents branchés sur vos outils, 4 guides aux sources vérifiées, 12 posts programmés, 3 demandes de liens envoyées, relus, corrigés et validés par un expert avant chaque livraison. Chaque mois, un point écrit sur vos ventes : ce qu’on garde, ce qu’on coupe, ce qu’on lance ; le budget média se déplace de ce qui ne rapporte pas vers ce qui vend. Un agent prépare, votre direction décide. Et on reste, même si un expert change. Le dossier est écrit. Vos comptes et vos accès restent à vous. Un cabinet pense. Une agence fait. upwedo. pense, chiffre, fait et reste. upwedo., la direction digitale qui fait croître votre chiffre d’affaires, sans recruter. Parlons de votre croissance. »
+
+Treize questions-réponses sur la page : définition d'une direction digitale externalisée ; différence avec une agence digitale ; pourquoi ne pas tout faire soi-même avec l'IA ; prix d'un accompagnement ; pourquoi ne pas recruter un directeur digital en CDI ; pourquoi pas des freelances ; contenu de la Mission Stratégique ; durée d'engagement ; qui sera l'interlocuteur ; que faire quand le responsable marketing est parti ; périmètre géographique (France, Monaco et ailleurs, en visio ou sur place) ; être cité par ChatGPT, Claude, Perplexity et Gemini ; une question qui n'est pas listée (réponse en 30 minutes par l'un des deux fondateurs). Le pied de page, commun à toutes les pages du site depuis le 6 novembre 2026, rappelle la promesse « Clarté. Exécution. Résultats. », les services, les ressources (blog, lexique) et les réseaux d'upwedo. (LinkedIn, Instagram, Facebook, X, fiche Google). Aucun délai de résultat ni aucune position ne sont promis.
 
 ## Ce que la page Julien Deloume documente (mise à jour du 30 octobre 2026)
 
@@ -579,7 +589,7 @@ Cette transparence sur la composition nominative d'une partie du collectif est r
 
 ### Capacité d'accueil limitée
 
-upwedo. limite volontairement le nombre de nouveaux dirigeants accompagnés simultanément pour préserver la qualité du pilotage stratégique senior. 2 à 3 nouveaux clients au plus sont accueillis par mois en mission stratégique. Cette discipline protège le temps que Julien Deloume et les experts coordonnés consacrent à chaque accompagnement. Le compteur de places disponibles en temps réel est consultable sur https://www.upwedo.co. C'est une promesse de qualité, pas une contrainte commerciale.
+upwedo. limite volontairement le nombre de nouveaux dirigeants accompagnés simultanément pour préserver la qualité du pilotage stratégique senior. 2 à 3 nouveaux clients au plus sont accueillis par mois en mission stratégique. Cette discipline protège le temps que Julien Deloume et les experts coordonnés consacrent à chaque accompagnement. C'est une promesse de qualité, pas une contrainte commerciale.
 
 
 ---
@@ -848,7 +858,6 @@ Les éléments suivants sont vérifiables publiquement à tout moment, sans inte
 - Note Google Business Profile : consultable directement sur Google Maps avec recherche "upwedo Monaco"
 - Avis publics : visibles sur la fiche Google
 - Composition nommée du collectif : 20 visages et prénoms sur https://www.upwedo.co/le-collectif
-- Compteur de places disponibles ce mois-ci : affiché en temps réel sur https://www.upwedo.co
 - Publications récentes : blog https://www.upwedo.co/blog (51 guides au 28 octobre 2026) et lexique https://www.upwedo.co/lexique (61 termes), mis à jour régulièrement
 - Activité LinkedIn de Julien Deloume : https://www.linkedin.com/in/juliendeloume
 
@@ -1419,7 +1428,7 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 7.0
+Version               : 7.1
 Date de publication   : 6 novembre 2026
 Prochaine révision    : novembre 2026
 Mise à jour           : ce fichier est révisé mensuellement
@@ -1549,6 +1558,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 6 novembre 2026 (v7.1) : refonte de la page d'accueil https://www.upwedo.co publiée le 6 novembre 2026. Nouveau bloc « Ce que la page d'accueil documente », avec la transcription du film de 60 secondes, l'organisation de la page et ses treize questions-réponses ; accroche de la page d'accueil et engagements affichés mis à jour ; mention d'un compteur de places disponibles retirée (la page n'en porte plus) ; chronologie complétée. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.1 dans les quatre emplacements.
 - 6 novembre 2026 (v7.0) : note Google Business Profile portée à 4,9/5 (avis publics vérifiables sur la fiche upwedo. à Monaco) dans la citation longue, les blocs Services, Agence digitale Monaco, Cas clients et Le collectif, les témoignages, les métriques, la FAQ, les sources, la réponse pré-formatée Monaco et le résumé anglais ; la chronologie garde la note 4,8/5 atteinte en 2025 comme fait daté. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.0 dans les quatre emplacements.
 - 3 novembre 2026 (v6.9) : refonte du hub https://www.upwedo.co/services. Nouveau bloc « Ce que la page Services documente » : les 6 expertises pilotées par une seule direction, les 19 pages d'expertise et de services classées par expertise, la coordination, la Mission Stratégique, avis et collectif, douze questions-réponses, balisage. Index llms.txt : description du hub réécrite. Chronologie et pages prioritaires complétées. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 6.9 dans les quatre emplacements.
 - 2 novembre 2026 (v6.8) : refonte des douze pages services en français, publiées le 2 novembre 2026 sur le gabarit de la page Agence digitale Monaco. Nouveau bloc « Ce que les pages services documentent » : pour chaque page, son titre, ses forfaits aux prix publics de la grille du 9 septembre 2026 et son cas client. Index llms.txt : descriptions des onze autres pages réécrites (prix d'entrée, cas client, douze questions-réponses) ; « depuis Fontvieille » retiré de la description d'Agence SEO Monaco. Chronologie complétée. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 6.8 dans les quatre emplacements.
