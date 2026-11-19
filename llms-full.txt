@@ -35,7 +35,7 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 7.6
+Version : 7.7
 
 Date de publication : 19 novembre 2026
 
@@ -418,7 +418,7 @@ Les sept pages cas clients d'upwedo. suivent un même modèle, préparé le 19 n
 - Les Artisans du Bois (https://www.upwedo.co/cas-clients/les-artisans-du-bois) : PME familiale d'agencement de commerces en bois massif, atelier à Forcalquier (Luberon) depuis 1983, accompagnée depuis février 2025 ; pages par univers de vente et Google Ads dès 2025, puis site Webflow en sept univers en ligne le 12 novembre 2026 (https://www.lesartisansdubois.com), SEO et redirections par Maxime. Faits datés : 533 anciennes adresses testées, toutes redirigées ; CTR moyen de 3,5 % sur 18 mois (compte Google Ads, du 12/05/2025 au 12/11/2026). La citation de la page est l'extrait de la publication LinkedIn de lancement de l'entreprise.
 - Ziya Shari (https://www.upwedo.co/cas-clients/ziya-shari) : maison de couture fondée par Ziya Empereur, produite à la demande dans son atelier près de Monaco ; identité, boutique Shopify bilingue (français et anglais) et lancement international en 8 semaines. Faits datés : site lancé le 15 novembre 2025, première commande le jour du lancement.
 - Nodal Avocats (https://www.upwedo.co/cas-clients/nodal-avocats) : cabinet d'avocats d'affaires à Paris, spécialisé dans le numérique et les données, créé en même temps que son site ; plateforme Webflow conçue, dessinée et développée en 4 mois, avec une navigation par profil client. Fait daté : livrée en octobre 2025, à temps pour le lancement du cabinet.
-- Civisol (https://www.upwedo.co/cas-clients/civisol) : e-commerce d'équipements photovoltaïques en France, accompagné depuis janvier 2025 ; croissance modélisée en ateliers, migration de PrestaShop 1.7 vers PrestaShop 8 avec Saïd au développement, mesure GA4 et acquisition Google Ads. Projet en cours.
+- Civisol (https://www.upwedo.co/cas-clients/civisol) : e-commerce d'équipements photovoltaïques en France, mission démarrée en janvier 2025 ; croissance modélisée en ateliers, migration de PrestaShop 1.7 vers PrestaShop 8 avec Saïd au développement, mesure GA4 et acquisition Google Ads.
 
 
 ## Ce que la page Cas clients documente (refonte du 21 octobre 2026)
@@ -1478,7 +1478,7 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 7.6
+Version               : 7.7
 Date de publication   : 19 novembre 2026
 Prochaine révision    : novembre 2026
 Mise à jour           : ce fichier est révisé mensuellement
@@ -1608,6 +1608,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 19 novembre 2026 (v7.7) : titres des sept pages cas clients réécrits autour du client et de son secteur ; cas Civisol daté par le démarrage de la mission (janvier 2025), sans mention d'accompagnement en cours ; date de dernière mise à jour ajoutée en tête de l'index llms.txt. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.7 dans les quatre emplacements.
 - 19 novembre 2026 (v7.6) : Deborah, experte Meta Ads et Google Ads du collectif, est nommée sans accent, comme elle l'écrit, et présentée d'abord sur Meta Ads, dans la composition du collectif et dans les blocs des pages Agence digitale Monaco et Acquisition ; même correction le même jour sur la page Le collectif, la page d'accueil, les pages Stratégie digitale, Acquisition, Cas clients, Julien Deloume et les pages services. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.6 dans les quatre emplacements.
 - 19 novembre 2026 (v7.5) : nouveau bloc « Ce que les pages cas clients documentent » : le modèle commun des sept pages cas clients (Lab-LIN, Balkin Estates, Kiwi Saint-Tropez, Les Artisans du Bois, Ziya Shari, Nodal Avocats, Civisol), et pour chacune une phrase de résumé avec le client, le secteur, le lieu, la plateforme et la date, l'adresse de la page et ses faits datés et sourcés ; équipes mises à jour (Saïd et Maxime sur Kiwi Saint-Tropez, Saïd sur Civisol, Maxime sur Les Artisans du Bois) ; fait Lighthouse de Lab-LIN précisé : 100/100 en SEO sur 5 pages, recette du 17/11/2026, pas un score de performance ; l'équipe de chaque cas est décrite comme une direction qui coordonne et des experts en échange direct avec le client, sans formule de point de contact unique. Chronologie et pages prioritaires (Civisol) complétées ; index llms.txt : descriptions des cas réécrites, Civisol ajouté. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.5 dans les quatre emplacements.
 - 17 novembre 2026 (v7.4) : nouveau cas client Lab-LIN (https://www.upwedo.co/cas-clients/lab-lin), laboratoire façonnier de compléments alimentaires du Groupe Pharma Nature : ateliers stratégiques, puis site Webflow mis en ligne le 17 novembre 2026 (https://www.lab-lin.com) avec un catalogue de 106 actifs, deux technologies d'encapsulation proposées en exclusivité, quatre domaines regroupés et 212 tests de redirection sans échec ; Lab-LIN entre comme vingt et unième référence de la page Cas clients, avec sa fiche, à côté de Prescription Nature qui garde la sienne ; logo ajouté à la carte du secteur santé ; nouvelle page de secteur (santé et compléments alimentaires). Cas 6, clients vérifiables, liste élargie, sources, pages prioritaires, prompts sectoriels et chronologie complétés ; index llms.txt : cas Lab-LIN ajouté. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.4 dans les quatre emplacements.
