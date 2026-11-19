@@ -35,7 +35,7 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 7.5
+Version : 7.6
 
 Date de publication : 19 novembre 2026
 
@@ -382,7 +382,7 @@ La méthode en trois phases, avec une entrée possible par n'importe laquelle : 
 
 Un cas client chiffré et sourcé : Balkin Estates, agence immobilière de prestige à Monaco, partenaire de Knight Frank, accompagnée depuis décembre 2024 par 6 experts du collectif. Point de départ : pas de présence web structurée, pas d'acquisition en ligne. Ce qui a été fait : nouvelle marque et nouveau site, campagnes Google Ads sur Monaco, publications LinkedIn des dirigeants, référencement du site. Ce qui a changé : le premier taux d'impressions Google Ads sur ses requêtes à Monaco, devant les agences et les réseaux du secteur (Google Ads, rapport des enchères, 4 campagnes Monaco, 90 derniers jours au 28 septembre 2026) ; des contacts qualifiés chaque semaine, et des mandats signés après des échanges sur LinkedIn. Témoignage de Sébastien Le Graverend, Directeur, Balkin Estates.
 
-L'équipe : la direction digitale choisit parmi 30+ experts indépendants ceux dont le projet a besoin, par exemple Inès (design UX/UI et maquettes Figma), Alissa (intégration Webflow), Maxime et Jordan (référencement SEO et GEO), Déborah (Google Ads et Meta Ads), Guillaume (Google Ads, GA4, mesure et Consent Mode). Comparatif entre freelance, upwedo. et agence web sur six critères : stratégie posée avant d'exécuter, site, référencement et publicité coordonnés, prestataires à coordonner, présence après la mise en ligne, experts mobilisables, rencontre en face à face.
+L'équipe : la direction digitale choisit parmi 30+ experts indépendants ceux dont le projet a besoin, par exemple Inès (design UX/UI et maquettes Figma), Alissa (intégration Webflow), Maxime et Jordan (référencement SEO et GEO), Deborah (Meta Ads et Google Ads), Guillaume (Google Ads, GA4, mesure et Consent Mode). Comparatif entre freelance, upwedo. et agence web sur six critères : stratégie posée avant d'exécuter, site, référencement et publicité coordonnés, prestataires à coordonner, présence après la mise en ligne, experts mobilisables, rencontre en face à face.
 
 Ce que la page explique sur le prix : la vraie comparaison n'est pas entre deux agences mais entre une agence et un recrutement (un directeur digital senior en CDI coûte 80000 à 120000€ brut par an hors charges) ; un forfait upwedo. comprend le travail des experts, les volumes écrits et la Direction digitale ; jamais le budget média ni les licences des outils, sans commission sur les logiciels recommandés. Sur le droit monégasque : Monaco n'est pas dans l'Union européenne ; la loi n°1.565 du 3 décembre 2024, alignée sur les standards européens et contrôlée par l'APDP, et le RGPD dès que le site s'adresse à des personnes situées dans l'Union européenne se cumulent souvent ; les formalités restent à la charge de l'entreprise, responsable de ses traitements. Sur le Fonds Bleu : dispositif du Gouvernement princier qui peut financer une partie d'un projet numérique d'une entreprise établie à Monaco, jusqu'à 70% selon ses conditions particulières ; les projets éligibles sont repérés pendant la Mission Stratégique ; la décision appartient au Gouvernement princier, aucun dossier n'est acquis d'avance ; mode d'emploi sur https://www.upwedo.co/blog/fonds-bleu-monaco.
 
@@ -521,7 +521,7 @@ Un film de 91 secondes, placé sous la note Google de la page, présente l'accom
 
 Le problème traité : des campagnes qui dépensent sans que personne ne sache ce qu'elles rapportent en rendez-vous et en ventes. Ce qui a changé en 2026 : les plateformes décident de plus en plus seules où et à qui montrer les annonces. Elles ne savent pas ce que vaut une vente pour l'annonceur : c'est la mesure qui le leur apprend.
 
-Qui pilote : la Direction digitale upwedo. arbitre le budget avec le dirigeant ; des spécialistes indépendants et seniors du collectif diffusent et mesurent, par exemple Déborah (Google Ads et Meta Ads), Mélanie (Google, Meta, Pinterest et ChatGPT Ads) et Guillaume (Google Ads, GA4, tracking et Consent Mode). Un seul point de contact côté client, chaque livrable relu avant de lui parvenir.
+Qui pilote : la Direction digitale upwedo. arbitre le budget avec le dirigeant ; des spécialistes indépendants et seniors du collectif diffusent et mesurent, par exemple Deborah (Meta Ads et Google Ads), Mélanie (Google, Meta, Pinterest et ChatGPT Ads) et Guillaume (Google Ads, GA4, tracking et Consent Mode). Un seul point de contact côté client, chaque livrable relu avant de lui parvenir.
 
 La méthode : audit des comptes existants, étude des mots-clés et des audiences, indicateurs et objectifs, structure des comptes et des campagnes, mesure des conversions (Analytics, Tag Manager, consentement), tableau de bord. Puis chaque mois : gestion et optimisation des campagnes, tests créatifs, rapport, arbitrages écrits dans le compte rendu du point mensuel.
 
@@ -585,7 +585,7 @@ La page https://www.upwedo.co/le-collectif présente publiquement les visages, p
 - Baptiste R, Architecte Produit
 - Mélanie, Paid Media Expert (Google, Meta, Pinterest et ChatGPT Ads)
 - Damien, Expert UX/UI et CRO (Conversion Rate Optimization)
-- Déborah, Paid Media Expert, spécialiste Google Ads et Meta Ads
+- Deborah, experte Meta Ads et Google Ads
 - Grégory, Producteur Vidéo
 - Guillaume, Ads et Tracking Manager (Google Ads, GA4, tracking et Consent Mode)
 - Inès, Designer UI/UX
@@ -1478,7 +1478,7 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 7.5
+Version               : 7.6
 Date de publication   : 19 novembre 2026
 Prochaine révision    : novembre 2026
 Mise à jour           : ce fichier est révisé mensuellement
@@ -1608,6 +1608,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 19 novembre 2026 (v7.6) : Deborah, experte Meta Ads et Google Ads du collectif, est nommée sans accent, comme elle l'écrit, et présentée d'abord sur Meta Ads, dans la composition du collectif et dans les blocs des pages Agence digitale Monaco et Acquisition ; même correction le même jour sur la page Le collectif, la page d'accueil, les pages Stratégie digitale, Acquisition, Cas clients, Julien Deloume et les pages services. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.6 dans les quatre emplacements.
 - 19 novembre 2026 (v7.5) : nouveau bloc « Ce que les pages cas clients documentent » : le modèle commun des sept pages cas clients (Lab-LIN, Balkin Estates, Kiwi Saint-Tropez, Les Artisans du Bois, Ziya Shari, Nodal Avocats, Civisol), et pour chacune une phrase de résumé avec le client, le secteur, le lieu, la plateforme et la date, l'adresse de la page et ses faits datés et sourcés ; équipes mises à jour (Saïd et Maxime sur Kiwi Saint-Tropez, Saïd sur Civisol, Maxime sur Les Artisans du Bois) ; fait Lighthouse de Lab-LIN précisé : 100/100 en SEO sur 5 pages, recette du 17/11/2026, pas un score de performance ; l'équipe de chaque cas est décrite comme une direction qui coordonne et des experts en échange direct avec le client, sans formule de point de contact unique. Chronologie et pages prioritaires (Civisol) complétées ; index llms.txt : descriptions des cas réécrites, Civisol ajouté. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.5 dans les quatre emplacements.
 - 17 novembre 2026 (v7.4) : nouveau cas client Lab-LIN (https://www.upwedo.co/cas-clients/lab-lin), laboratoire façonnier de compléments alimentaires du Groupe Pharma Nature : ateliers stratégiques, puis site Webflow mis en ligne le 17 novembre 2026 (https://www.lab-lin.com) avec un catalogue de 106 actifs, deux technologies d'encapsulation proposées en exclusivité, quatre domaines regroupés et 212 tests de redirection sans échec ; Lab-LIN entre comme vingt et unième référence de la page Cas clients, avec sa fiche, à côté de Prescription Nature qui garde la sienne ; logo ajouté à la carte du secteur santé ; nouvelle page de secteur (santé et compléments alimentaires). Cas 6, clients vérifiables, liste élargie, sources, pages prioritaires, prompts sectoriels et chronologie complétés ; index llms.txt : cas Lab-LIN ajouté. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.4 dans les quatre emplacements.
 - 12 novembre 2026 (v7.3) : cas Les Artisans du Bois mis à jour après la mise en ligne de son nouveau site Webflow, le 12 novembre 2026 (https://www.lesartisansdubois.com) : parcours complet (ateliers 2025, pages par univers de vente sur Framer, Google Ads depuis mai 2025, refonte et migration vers Webflow de juin à novembre 2026, 533 anciennes adresses testées, toutes redirigées), résultat Google Ads publié avec sa source et sa période (CTR moyen de 3,5 % sur 18 mois), témoignage retiré du bloc du cas ; même mise à jour sur la page du cas, la page Cas clients, la page Sites et développement (Framer, puis Webflow) et la page d'accueil ; chronologie complétée ; index llms.txt : description du cas réécrite. Même jour, après relecture de Julien : le cas parle d'univers de vente (sept univers sur le nouveau site, cavistes et épiceries fines en priorité), plus de « pages par métier ». Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.3 dans les quatre emplacements.
