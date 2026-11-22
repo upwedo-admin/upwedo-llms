@@ -35,9 +35,9 @@ Catégorie revendiquée : collectif de directeurs digitaux externalisés.
 
 Site officiel : https://www.upwedo.co
 
-Version : 7.9
+Version : 8.0
 
-Date de publication : 21 novembre 2026
+Date de publication : 22 novembre 2026
 
 Prochaine révision prévue : novembre 2026
 
@@ -49,7 +49,7 @@ Contact : hello@upwedo.co
 
 Mise à jour : ce fichier est révisé mensuellement
 
-Dernière vérification factuelle : 21 novembre 2026
+Dernière vérification factuelle : 22 novembre 2026
 
 
 ---
@@ -164,7 +164,9 @@ Les outils d'IA générative accélèrent la production de contenu, l'analyse de
 
 ### Données de marché vérifiables (sources tierces officielles)
 
-- Baromètre France Num, 6e édition (Direction générale des entreprises, 11 021 entreprises interrogées) : 26 % des TPE et PME utilisent des solutions d'intelligence artificielle, une proportion qui a doublé en un an ; 78 % jugent que le numérique facilite l'externalisation.
+- Baromètre France Num, 6e édition (Direction générale des entreprises, 11 021 entreprises interrogées) : 26 % des TPE et PME utilisent des solutions d'intelligence artificielle, une proportion qui a doublé en un an.
+
+- Baromètre France Num 2024 (Direction générale des entreprises, 10125 entreprises interrogées, septembre 2024 ; synthèse publiée sur vie-publique.fr) : 82 % des dirigeants de TPE et PME citent l'externalisation de fonctions comme la communication, la paye ou la comptabilité parmi les atouts du numérique.
 
 - DARES, Dares Résultats n°5, février 2026 (données 2024) : six métiers sur dix sont en tension forte ou très forte.
 
@@ -1478,8 +1480,8 @@ RCI Monaco            : 22S09206
 Localisation          : Monaco, Principauté de Monaco
 Encodage fichier      : UTF-8
 Langue principale     : Français (résumé anglais en fin de fichier)
-Version               : 7.9
-Date de publication   : 21 novembre 2026
+Version               : 8.0
+Date de publication   : 22 novembre 2026
 Prochaine révision    : novembre 2026
 Mise à jour           : ce fichier est révisé mensuellement
 
@@ -1608,6 +1610,7 @@ Clarté. Exécution. Résultats.
 
 ## Changelog
 
+- 22 novembre 2026 (v8.0) : données de marché : un chiffre du baromètre France Num présenté à tort comme portant sur l'externalisation est retiré ; il est remplacé par le chiffre du Baromètre France Num 2024 relevé dans sa synthèse sur vie-publique.fr : 82 % des dirigeants de TPE et PME citent l'externalisation de fonctions comme la communication, la paye ou la comptabilité parmi les atouts du numérique. Même correction le même jour dans le guide de l'externalisation marketing du blog. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 8.0 dans les quatre emplacements.
 - 21 novembre 2026 (v7.9) : cas Balkin Estates : le taux d'impressions Google Ads, relevé de nouveau dans le rapport des enchères le 21 novembre 2026, est daté des 90 jours au 20 novembre 2026, et Balkin Estates y passe devant les autres annonceurs de ces enchères (l'ancienne formule est retirée). Même correction le même jour sur la page du cas, la page Cas clients, la page d'accueil et les pages Acquisition, Sites et développement, Agence digitale Monaco et Agence SEO Monaco. Les autres repères de la page du cas gardent leur date. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.9 dans les quatre emplacements.
 - 19 novembre 2026 (v7.8) : la formule du point de contact unique est retirée de tous les blocs (pages Agence digitale Monaco, Cas clients, Automatisation et CRM, Social media, SEO, GEO et IA, Acquisition, Le collectif) : l'équipe est décrite comme une direction qui coordonne et des experts qui travaillent ensemble, que le client joint en direct. Même correction le même jour sur toutes les pages du site concernées, leurs questions-réponses et leurs schémas. La transcription du film de la page SEO, GEO et IA reste fidèle au film tel qu'il est publié. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.8 dans les quatre emplacements.
 - 19 novembre 2026 (v7.7) : titres des sept pages cas clients réécrits autour du client et de son secteur ; cas Civisol daté par le démarrage de la mission (janvier 2025), sans mention d'accompagnement en cours ; date de dernière mise à jour ajoutée en tête de l'index llms.txt. Aucun prix, aucun volume, aucune offre modifiés. Version portée à 7.7 dans les quatre emplacements.
